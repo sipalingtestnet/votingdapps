@@ -6,9 +6,9 @@ module.exports = {
   networks: {
     hardhat: {},
     localhost: {
-      url: 'http://165.232.134.78:8545',
-      chainId: 1334949,
-      accounts: ['fc53f4c90bd288833d4b005f04dbddbd4952627e93b215753bc75e44ddcf0966'],
+      url: "https://json-rpc.testnet.swisstronik.com",
+      chainId: 1291,
+      accounts: ['KEPO YA'],
     },
   },
   solidity: {
